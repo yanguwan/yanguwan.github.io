@@ -9,7 +9,7 @@
     <atom:link href="http://example.com/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>我去旅行，是因为我决定了要去，并不是因为对风景的兴趣。</description>
-    <pubDate>Sun, 22 May 2022 13:42:20 GMT</pubDate>
+    <pubDate>Mon, 23 May 2022 13:52:26 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
@@ -30,6 +30,10 @@
       <content:encoded><![CDATA[<p>今天建立了一个Github个人主页，将来就在这里记录一些所思所想吧。</p><p>感谢Github, 感谢Hexo</p>]]></content:encoded>
       
       
+      
+      <category domain="http://example.com/tags/%E8%AF%BB%E4%B9%A6%E4%B8%8E%E4%BA%BA%E7%94%9F/">读书与人生</category>
+      
+      <category domain="http://example.com/tags/Tennis/">Tennis</category>
       
       
       <comments>http://example.com/2022/05/22/firstpost/#disqus_thread</comments>
