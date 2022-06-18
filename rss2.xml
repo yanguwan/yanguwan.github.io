@@ -9,8 +9,38 @@
     <atom:link href="http://example.com/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>我去旅行，是因为我决定了要去，并不是因为对风景的兴趣。</description>
-    <pubDate>Mon, 23 May 2022 14:22:08 GMT</pubDate>
+    <pubDate>Sat, 18 Jun 2022 11:20:07 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>一个叫Talent Plan的学习社区</title>
+      <link>http://example.com/2022/06/18/%E4%B8%80%E4%B8%AA%E5%8F%ABTalent-Plan%E7%9A%84%E5%AD%A6%E4%B9%A0%E7%A4%BE%E5%8C%BA/</link>
+      <guid>http://example.com/2022/06/18/%E4%B8%80%E4%B8%AA%E5%8F%ABTalent-Plan%E7%9A%84%E5%AD%A6%E4%B9%A0%E7%A4%BE%E5%8C%BA/</guid>
+      <pubDate>Sat, 18 Jun 2022 11:18:58 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h3 id=&quot;Talent-Plan-课程&quot;&gt;&lt;a href=&quot;#Talent-Plan-课程&quot; class=&quot;headerlink&quot; title=&quot;Talent Plan 课程&quot;&gt;&lt;/a&gt;Talent Plan 课程&lt;/h3&gt;&lt;p&gt;刚到公司的时候，实话讲没有注意到这个Tale</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<h3 id="Talent-Plan-课程"><a href="#Talent-Plan-课程" class="headerlink" title="Talent Plan 课程"></a>Talent Plan 课程</h3><p>刚到公司的时候，实话讲没有注意到这个Talent Plan，一来觉得这就是一门课程而已，二来被这个普通的名字迷惑了。后来才意识到这是一个很有意思的事情。</p><h3 id="数据库开发人才培养面临的矛盾"><a href="#数据库开发人才培养面临的矛盾" class="headerlink" title="数据库开发人才培养面临的矛盾"></a>数据库开发人才培养面临的矛盾</h3><p>关于数据库开发人才短缺的问题，大家都知道短缺，但到底有多严重，做个简单的计算。国内1243所本科高校中，对本科生开设数据库内核实现课程的高校，不超过20所，算上研究生开设内核开发实现的高校，加起来不超过60所。涉及到数据库内核实现的部分，不同高校的设置不一样，但都在这几个专业之中，</p><ul><li>计算机专业（080901）</li><li>或者软件工程（080902）</li><li>数据计算及应用（070104T）</li><li>数据科学与大数据技术（080910T）</li></ul><p>以上四个大专业，一般一所高校一年的学生量是400人，其中主要学习数据库开发的不足三分之一。研究生中，从事数据库内核实现会分布在不同的实验室，但一所学校加起来不足50人。满打满算，一年只有204000.3+60*50，约为5400名毕业生。</p><p>再看需求，墨天轮上列出的国产数据库企业是150家左右。假设每家企业每年的人才需求是30人，包括研发、测试、产品经理等，那么看得见的数据库开发人才缺口就是每年4500人，还有很多企业不在榜上，估计每年6000人。除了DB厂商，每个DB企业都有自己的合作伙伴和客户，这些企业也需要基于数据库，开发自己的数据库应用或者开发自己的定制数据库。按照10:1估计，这些生态企业总共需要6万人。 5400比66000的矛盾。此处不包括大数据分析侧的人才状态，大数据技术平台的人才供给矛盾稍显缓和。有人可能会说，我们可以招聘学习分布式计算或者分布式存储等密切相关方向的学生，即使如此，也不能明显缓和这个矛盾。</p><p>造成这个人才短缺的原因，其中之一是数据库内核开发人才的学习路径比较长。除了作为开发者必学的离散数学，数据结构、语言，作为基础软件开发者，你还需要学习计算系系统架构、编译原理、操作系统，作为数据库开发者，继续学习数据库概述、数据库实现、分布式存储和计算等等。面对这么长的路径，做一个移动应用或上层应用开发者路径就简单的多，可以速成。再加上近10年应用开发需求的极速膨胀，可以消化掉巨量的人才供给。这导致了数据库内核等基础软件方向招生困难。</p><p>从高校专业设置的角度，数据库不是一个专业，而只是计算机专业或者软件工程专业下的一个方向，再加上数据库在高校的眼中是一个非常传统的，成熟的技术，相比人工智能等新潮的技术方向，不太容易产出学术成果，导致过去二十年，绝大多数高校的本科数据库课程设置，都依然停留在数据库的使用和运维基础之上。这也跟过去二十年，我们主要使用美国企业的数据库产品（Oracle，DB2， MySQL， PostgreSQL，并不开发自己的数据库的情况也相关。</p><p>随着中国互联网产业的兴起，带动了自研数据库和国产数据库的发展。墨天轮中的150家国产数据库企业绝大多数都是2010年之后出现的。中国互联网经济的成功不但带来了大量的数据库开发需求，也推动了数据库技术的新发展， NoSQL， NewSQL， HTAP等技术相继出现。</p><p>但就在产业界对数据库开发人才无论是数量上，还是质量上提出要求的时候，令人尴尬的是，高校在数量上和质量上并没有准备好。</p><p>在这个矛盾中，最尖锐的部分是分布式关系型数据库开发人才的短缺。本来设置数据库开发教学的学校就不多，将分布式数据库的实现作为重点的就更少了，然而产业界数据库最主流的发展和需求就集中在分布式关系型数据库领域。</p><h3 id="Talent-Plan"><a href="#Talent-Plan" class="headerlink" title="Talent Plan"></a>Talent Plan</h3><p><a href="http://tidb.net/talent-plan">Talent Plan</a> 是公司几位创始成员在2018 年启动的。在看到美国学术界的人士都有不亚于工业界的工程能力，他们颇受触动，随即回国后开发了这套帮助学生学习和上手实操分布式数据内核开发的开源课程。</p><p>创始人们在2018年估计也不一定意识到人才短缺的宏观情况。他们起初希望与高校合作科研，将高校的研究成果应用到自己的产品上，然而高校实验室的人员对分布式数据库的了解并不足够，所以开发了Talent Plan。</p><p>之后的发展是轨迹有点超出了最早的构想。除了第一批的华中科技和中国科大，来自于200多所高校的学生学习Talent Plan，包括40所国外高校，在<a href="https://github.com/pingcap/talent-plan">GitHub</a>上达到 7600+星，学习人数也达到3000+人。</p><h3 id="开源学习社区"><a href="#开源学习社区" class="headerlink" title="开源学习社区"></a>开源学习社区</h3><p>开源学习社区当然属于开源社区，但同一般围绕一款软件进行协作开发的社区，学习社区有显著的不同。学习社区主要围绕学习活动，一切制度和资源配置都是围绕学习。比如学习社区中，除了一般社区的Contributor,Committer等角色，还必须有Mentors，必须有学习活动的组织者。将一款正在快速的迭代的开源软件作为学习者学习的对象，也不是最合适的选择。较好的学习对象应该是稳定的版本，并围绕开源软件衍生出的课程，包括理论知识、实操练习和编程实践。</p><p>开源学习社区还有几个特点和作用。第一，打破了学校的围墙。不再是优秀的学习资源只属于某个学校，而是惠及更多的人。第二、突破了对学校老师的依赖或者制约。大家知道高校的发展激励并不支持老师花费很多时间深入开源软件代码中，从而真正把产业界领先的设计和实践引入学校。学习社区可以通过Mentors机制把从产业界和教育界真正了解特定领域的知识导入到社区中。</p><p>Talent Plan 学习社区就是一个专注在数据库、分布式存储和系统领域的开源实践学习社区。</p><p>最后<br><a href="https://tidb.io/talent-plan">Talent Plan 中文官网</a><br><a href="https://github.com/pingcap/talent-plan">Talent Plan Github Home Page</a></p>]]></content:encoded>
+      
+      
+      
+      <category domain="http://example.com/tags/Talent-Plan/">Talent Plan</category>
+      
+      <category domain="http://example.com/tags/Distributed-Database/">Distributed Database</category>
+      
+      <category domain="http://example.com/tags/Distributed-System/">Distributed System</category>
+      
+      <category domain="http://example.com/tags/TiDB/">TiDB</category>
+      
+      
+      <comments>http://example.com/2022/06/18/%E4%B8%80%E4%B8%AA%E5%8F%ABTalent-Plan%E7%9A%84%E5%AD%A6%E4%B9%A0%E7%A4%BE%E5%8C%BA/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>读黄仁宇《万历十五年》</title>
