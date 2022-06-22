@@ -62,13 +62,13 @@
     
     
     
-    <category term="Talent Plan" scheme="http://example.com/tags/Talent-Plan/"/>
-    
     <category term="Distributed Database" scheme="http://example.com/tags/Distributed-Database/"/>
     
-    <category term="Distributed System" scheme="http://example.com/tags/Distributed-System/"/>
-    
     <category term="TiDB" scheme="http://example.com/tags/TiDB/"/>
+    
+    <category term="Talent Plan" scheme="http://example.com/tags/Talent-Plan/"/>
+    
+    <category term="Distributed System" scheme="http://example.com/tags/Distributed-System/"/>
     
   </entry>
   
